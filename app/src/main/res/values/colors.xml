@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#6200EE</color>
+
+    <color name="switch_track_off">#7AFFE4</color> <!-- Jalur warna merah muda saat off -->
+    <color name="switch_thumb_off">#36F4D7</color> <!-- Thumb warna merah saat off -->
+
+</resources>
